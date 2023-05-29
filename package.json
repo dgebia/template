@@ -1,0 +1,26 @@
+{
+    "name": "template",
+    "description": "This is a basic template using TS VITE CSS HTML",
+    "author": "Dgebia",
+    "private": true,
+    "version": "0.0.0",
+    "type": "module",
+    "scripts": {
+        "dev": "vite",
+        "build": "tsc && vite build",
+        "preview": "vite preview"
+    },
+    "keywords": [
+        "TS",
+        "css",
+        "html",
+        "vite"
+    ],
+    "devDependencies": {
+        "typescript": "^5.0.2",
+        "vite": "^4.3.2"
+    },
+    "dependencies": {
+        "normalize.css": "^8.0.1"
+    }
+}
